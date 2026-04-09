@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>For You ❤️</title>
+  <style>
+    body {
+      margin: 0;
+      background: #fdf6f9;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    img {
+      max-width: 90%;
+      border-radius: 20px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    }
+  </style>
+</head>
+<body>
+  <img src="YOUR_IMAGE_LINK_HERE">
+</body>
+</html>
